@@ -1,7 +1,3 @@
-# Hello, I'm Adrián!
-
-I'm a passionate Telecommunications Engineer with a diverse background and a strong drive to apply machine learning to real-world challenges. Here's a bit more about me:
-
 ## About Me
 
 - 🎓 I hold a Master's degree in Telecommunications Engineering.
