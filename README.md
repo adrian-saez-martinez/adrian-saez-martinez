@@ -20,8 +20,7 @@ Here are some of the skills I specialize in:
 
 Feel free to explore some of my notable projects:
 
-1. [Project 1](Link to Project 1 Repository) - A brief description.
-2. [Project 2](Link to Project 2 Repository) - A brief description.
+1.
 
 ## Contact
 
