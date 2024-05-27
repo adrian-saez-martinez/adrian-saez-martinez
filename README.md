@@ -1,24 +1,24 @@
 ## About Me
 
-- 🎓 I hold a Master's degree in Telecommunications Engineering.
-- 👔 I've worked with data since the begining of my journey, trying to help organizations make data-driven decisions.
-- 💡 I thrive on exploring new technologies, embracing the exciting possibilities they offer.
-- 💼 Currently, I work as a Project Engineer at an R&D company, contributing to a variety of projects, including digital twins, data related projects, and Artificial Intelligence.
+- 🎓 I am a Telecommunications Engineer.
+- 👔 I have been working with data since the beginning of my career, helping organizations make data-driven decisions.
+- 💡 I thrive on exploring new technologies and embracing the exciting possibilities they offer.
+- 💼 Currently, I contribute to a variety of projects including Digital Twins, data-related initiatives, and Artificial Intelligence.
 
 ## Skills
 
 Here are some of the skills I specialize in:
 
-- Python, TensorFlow, PyTorch, scikit-learn
 - Business Intelligence and Data Analysis
+- ChatGPT
 - Artificial Intelligence and NLP
 
 ## Projects
 
 Feel free to explore some of my projects:
 
-1. https://github.com/adrian-saez-martinez/Sentiment-Analysis-NLP
-2. 
+1. Detección de signos de depresión en tuits: https://github.com/adrian-saez-martinez/Sentiment-Analysis-NLP
+2. GPT sobre la ciudad de Murcia: https://chatgpt.com/g/g-B5TyjqT8U-tu-copiloto-murcianico
 
 ## Contact
 
