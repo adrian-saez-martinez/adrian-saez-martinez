@@ -5,20 +5,21 @@
 - 💡 I thrive on exploring new technologies and embracing the exciting possibilities they offer.
 - 💼 Currently, I contribute to a variety of projects including Digital Twins, data-related initiatives, and Artificial Intelligence.
 
-## Skills
+## Interests
 
-Here are some of the skills I specialize in:
+Here are some of the areas I am particularly interested in:
 
-- Business Intelligence and Data Analysis
+- Artificial Intelligence innovations
+- Natural Language Processing (NLP)
 - ChatGPT
-- Artificial Intelligence and NLP
+- Business Intelligence and Data Analysis
 
 ## Projects
 
 Feel free to explore some of my projects:
 
-1. Detección de signos de depresión en tuits: https://github.com/adrian-saez-martinez/Sentiment-Analysis-NLP
-2. GPT sobre la ciudad de Murcia: https://chatgpt.com/g/g-B5TyjqT8U-tu-copiloto-murcianico
+1. Sentiment analysis on tuits: https://github.com/adrian-saez-martinez/Sentiment-Analysis-NLP
+2. GPT copilot about Murcia: https://chatgpt.com/g/g-B5TyjqT8U-tu-copiloto-murcianico
 
 ## Contact
 
