@@ -17,7 +17,8 @@ Here are some of the skills I specialize in:
 
 Feel free to explore some of my projects:
 
-1.
+1. https://github.com/adrian-saez-martinez/Sentiment-Analysis-NLP
+2. 
 
 ## Contact
 
