@@ -4,7 +4,7 @@
 - 👔 I've worked in Business Intelligence, helping organizations make data-driven decisions.
 - 🚀 I've been part of a startup that specializes in price comparison using web scraping and machine learning techniques.
 - 💡 I thrive on exploring new sectors and technologies, embracing the exciting possibilities they offer.
-- 💼 Currently, I work as a Project Engineer at an R&D company, contributing to a variety of projects, including IoT initiatives, data processing, and machine learning.
+- 💼 Currently, I work as a Project Engineer at an R&D company, contributing to a variety of projects, including digital twins, NLP, and Artificial Intelligence.
 
 ## Skills
 
