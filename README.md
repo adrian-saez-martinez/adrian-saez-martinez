@@ -7,12 +7,11 @@
 
 ## Interests
 
-Here are some of the areas I am particularly interested in:
+Here are the main areas I am particularly interested in:
 
-- Artificial Intelligence innovations
+- Artificial Intelligence
 - Natural Language Processing (NLP)
 - ChatGPT
-- Business Intelligence and Data Analysis
 
 ## Projects
 
