@@ -18,7 +18,8 @@ Here are the main areas I am particularly interested in:
 Feel free to explore some of my projects:
 
 1. Sentiment analysis on tuits: https://github.com/adrian-saez-martinez/Sentiment-Analysis-NLP
-2. GPT copilot about Murcia: https://chatgpt.com/g/g-B5TyjqT8U-tu-copiloto-murcianico
+2. Modified onju-voice: https://github.com/adrian-saez-martinez/onju-voice-AI
+3. GPT copilot about Murcia: https://chatgpt.com/g/g-B5TyjqT8U-tu-copiloto-murcianico
 
 ## Contact
 
