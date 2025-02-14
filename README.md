@@ -21,8 +21,9 @@ Feel free to explore some of my projects:
 
 1. My own AI Assistant: https://github.com/adrian-saez-martinez/my-clone .. https://adrian-saez-martinez.streamlit.app/
 2. Sentiment analysis on tuits: https://github.com/adrian-saez-martinez/Sentiment-Analysis-NLP
-3. Modified onju-voice: https://github.com/adrian-saez-martinez/onju-voice-AI
-4. GPT copilot about Murcia: https://chatgpt.com/g/g-B5TyjqT8U-tu-copiloto-murcianico
+3. Some experiments with generative AI: https://github.com/adrian-saez-martinez/experiments_LLMs
+4. Modified onju-voice: https://github.com/adrian-saez-martinez/onju-voice-AI
+5. GPT copilot about Murcia: https://chatgpt.com/g/g-B5TyjqT8U-tu-copiloto-murcianico
 
 ## Contact
 
