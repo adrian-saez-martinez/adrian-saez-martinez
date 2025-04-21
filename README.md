@@ -1,8 +1,8 @@
 ## About Me
 
 - 🎓 I am a Telecommunications Engineer.
-- 💼 I have been working with data since the beginning of my career, helping organizations make data-driven decisions.
-- 💡 I thrive on exploring new technologies and embracing the exciting possibilities they offer.
+- 💼 I have been working with data since the beginning of my career.
+- 💡 I thrive on exploring new technologies and the exciting possibilities they offer.
 - 📅 Currently, I contribute to a variety of projects including Artificial Intelligence, Digital Twins, and data-related initiatives.
 
 ## Projects
@@ -33,8 +33,6 @@ Feel free to explore some of my projects:
    A custom GPT that helps people learn about and navigate Murcia.  
    [Link](https://chatgpt.com/g/g-B5TyjqT8U-tu-copiloto-murcianico)
 
-
-
 ## Interests
 
 Here are the main areas I am particularly interested in:
@@ -42,7 +40,7 @@ Here are the main areas I am particularly interested in:
 - Artificial Intelligence
 - Generative AI
 - LLMs
-- RAG (Retrieval-Augmented Generation)
+- RAG
 - AI Agents
 
 ## Contact
