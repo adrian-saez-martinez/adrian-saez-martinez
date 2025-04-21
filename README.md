@@ -15,7 +15,7 @@ Feel free to explore some of my projects:
 
 2. **🐠 Curly Verifier**  
    An app that scans product ingredients to check Curly Girl Method compatibility. It uses LLMs + RAG to analyze substances and provide intelligent feedback on hair products.  
-   [Repo](https://github.com/adrian-saez-martinez/curly-verifier) | ([App](https://cuidatecurly.com/](https://cuidatecurly.com/))
+   [Repo](https://github.com/adrian-saez-martinez/curly-method-app) | [App](https://cuidatecurly.com/)
 
 3. **📊 Sentiment Analysis on Tweets**  
    An NLP project for classifying Spanish tweets based on sentiment.  
