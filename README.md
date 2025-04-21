@@ -13,7 +13,7 @@ Feel free to explore some of my projects:
    A chatbot clone of myself with knowledge about my background, interests, and opinions.  
    [Repo](https://github.com/adrian-saez-martinez/my-clone) | [App](https://adrian-saez-martinez.streamlit.app/)
 
-2. **🐠 Curly Verifier**  
+2. **🌀 Curly Verifier**  
    An app that scans product ingredients to check Curly Girl Method compatibility. It uses LLMs + RAG to analyze substances and provide intelligent feedback on hair products.  
    [Repo](https://github.com/adrian-saez-martinez/curly-method-app) | [App](https://cuidatecurly.com/)
 
